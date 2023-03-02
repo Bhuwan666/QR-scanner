@@ -1,4 +1,4 @@
-package com.kazimasum.qrdemo;
+package com.bhuwanbahadurale.qrdemo;
 
 import org.junit.Test;
 
